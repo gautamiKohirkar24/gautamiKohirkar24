@@ -2,7 +2,7 @@
 <h3 align="center">From Atoms to Algorithms: Navigating the Data Science Landscape with a Molecular Mind</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif">
 
-- 🔭 I’m currently working on **Time Series Forcasting**
+- 🔭 I’m currently working on **Time Series Forecasting**
 
 - 🌱 I’m currently learning **Deep learning**
 
