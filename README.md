@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Gautami</h1>
-<h3 align="center">From Atoms to Algorithms: Navigating the Data Science Landscape with a Molecular Mind</h3>
+<h3 align="center">From Atoms to Algorithms: Navigating the Data Universe with a Molecular Mind</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif">
 
-- 🔭 I’m currently working on **MLOPS**
+- 🔭 I’m crazy about  **Passionate about solving real-world problems, building cool products with data and machine learning, and bringing startup dreams to life!**
 
-- 🌱 I’m currently learning **Deep learning**
+- 🌱 I’m currently learning **Advanced Deep Learning technique, NLP and MLOPS Pipeline**
 
-- 💬 Ask me about **Machine Learning & Chemistry**
+- 💬 Ask me about **Turning messy data into powerful insights, slick solutions, and strategies that make decisions as easy as a click**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
