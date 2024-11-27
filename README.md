@@ -13,22 +13,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Projects</title>
-    <style>
-        /* Style for project links */
-        a {
-            font-size: 24px;
-            text-decoration: none;
-            color: #1E90FF;
-            display: block; /* Makes each link appear on a new line */
-            margin: 10px 0; /* Adds some space between the projects */
-        }
-
-        /* Hover effect */
-        a:hover {
-            color: #00BFFF;
-        }
-    </style>
+   
 </head>
 <body>
 
