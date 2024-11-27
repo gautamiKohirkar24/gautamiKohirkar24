@@ -2,7 +2,7 @@
 <h3 align="center">From Atoms to Algorithms: Navigating the Data Universe with a Molecular Mind</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif">
 
-- 🔭 I’m crazy about  **Solving real-world problems, building cool products with data and machine learning, and bringing startup dreams to life!**
+- 🔭 I’m crazy about  **Solving real-world problems and building cool products with data and machine learning!**
 
 - 🌱 I’m currently learning **Advanced Deep Learning technique, NLP and MLOPS Pipeline**
 
