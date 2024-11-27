@@ -8,26 +8,69 @@
 
 - 💬 Ask me about **Turning messy data into powerful insights, slick solutions, and strategies that make decisions as easy as a click**
 
-  <!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Project Link</title>
+    <title>Projects</title>
+    <style>
+        /* Style for project links */
+        a {
+            font-size: 24px;
+            text-decoration: none;
+            color: #1E90FF;
+            display: block; /* Makes each link appear on a new line */
+            margin: 10px 0; /* Adds some space between the projects */
+        }
+
+        /* Hover effect */
+        a:hover {
+            color: #00BFFF;
+        }
+    </style>
 </head>
 <body>
 
 <h1>Projects</h1>
 
-<!-- Clickable project name that redirects to the project page -->
+<!-- Project 1: Drug Review Sentiment Analysis -->
 <p>
-    <a href="https://github.com/gautamiKohirkar24/Drug-Review-Sentimet-Analysis" target="_blank" style="font-size: 24px; text-decoration: none; color: #1E90FF;">
+    <a href="https://github.com/gautamiKohirkar24/Drug-Review-Sentimet-Analysis" target="_blank">
         Drug Review Sentiment Analysis
     </a>
 </p>
 
+<!-- Project 2: Credit Risk Modeling For Loan Approval Using Machine Learning -->
+<p>
+    <a href="https://github.com/gautamiKohirkar24/Credit-Risk-Modeling-For-Loan-Approval-Using-Machine-Learning" target="_blank">
+        Credit Risk Modeling For Loan Approval Using Machine Learning
+    </a>
+</p>
+
+<!-- Project 3:  Shopsmart Mall Customer Segmentation  -->
+<p>
+    <a href="https://github.com/gautamiKohirkar24/ShopSmart-Mall-Customer-Segmentation" target="_blank">
+       Shopsmart Mall Customer Segmentation 
+    </a>
+</p>
+
+<!-- Project 4:Sales Analysis and Dashboard  -->
+<p>
+    <a href="https://github.com/gautamiKohirkar24/Sales-Analysis-and-Dashboard" target="_blank">
+       Sales Analysis and Dashboard
+    </a>
+</p>
+
+<!-- Project 4:  Emotion Detection using CNN  -->
+<p>
+    <a href="https://github.com/gautamiKohirkar24/Emotion-Detection-using-CNN" target="_blank">
+      Emotion Detection using CNN
+    </a>
+</p>
 </body>
 </html>
+
 
 
 <h3 align="left">Connect with me:</h3>
