@@ -32,7 +32,9 @@
         Drug Review Sentiment Analysis
     </a>
 </p>
-
+<p>
+    An NLP project analyzing consumer reviews to classify sentiment and provide insights for better drug recommendations. Implemented advanced preprocessing, feature extraction, and LSTM techniques.
+</p>
 <!-- Project 2: Credit Risk Modeling For Loan Approval Using Machine Learning -->
 <p>
     <a href="https://github.com/gautamiKohirkar24/Credit-Risk-Modeling-For-Loan-Approval-Using-Machine-Learning" target="_blank">
