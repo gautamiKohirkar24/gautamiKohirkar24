@@ -41,7 +41,9 @@
         Credit Risk Modeling For Loan Approval Using Machine Learning
     </a>
 </p>
-
+<p>
+    A machine learning project predicting credit risk to assist in loan approval decisions. Includes exploratory data analysis, feature engineering, and deployment using Flask.
+</p>
 <!-- Project 3:  Shopsmart Mall Customer Segmentation  -->
 <p>
     <a href="https://github.com/gautamiKohirkar24/ShopSmart-Mall-Customer-Segmentation" target="_blank">
