@@ -28,8 +28,8 @@
 
 <!-- Project 1: Drug Review Sentiment Analysis -->
 <p>
-  -  <a href="https://github.com/gautamiKohirkar24/Drug-Review-Sentimet-Analysis" target="_blank">
-        Drug Review Sentiment Analysis
+   <a href="https://github.com/gautamiKohirkar24/Drug-Review-Sentimet-Analysis" target="_blank">
+       - Drug Review Sentiment Analysis
     </a>
 </p>
 <p>
@@ -37,8 +37,8 @@
 </p>
 <!-- Project 2: Credit Risk Modeling For Loan Approval Using Machine Learning -->
 <p>
-  -  <a href="https://github.com/gautamiKohirkar24/Credit-Risk-Modeling-For-Loan-Approval-Using-Machine-Learning" target="_blank">
-        Credit Risk Modeling For Loan Approval Using Machine Learning
+   <a href="https://github.com/gautamiKohirkar24/Credit-Risk-Modeling-For-Loan-Approval-Using-Machine-Learning" target="_blank">
+       - Credit Risk Modeling For Loan Approval Using Machine Learning
     </a>
 </p>
 <p>
@@ -46,22 +46,22 @@
 </p>
 <!-- Project 3:  Shopsmart Mall Customer Segmentation  -->
 <p>
-   - <a href="https://github.com/gautamiKohirkar24/ShopSmart-Mall-Customer-Segmentation" target="_blank">
-       Shopsmart Mall Customer Segmentation 
+    <a href="https://github.com/gautamiKohirkar24/ShopSmart-Mall-Customer-Segmentation" target="_blank">
+      - Shopsmart Mall Customer Segmentation 
     </a>
 </p>
 
 <!-- Project 4:Sales Analysis and Dashboard  -->
 <p>
-   - <a href="https://github.com/gautamiKohirkar24/Sales-Analysis-and-Dashboard" target="_blank">
-       Sales Analysis and Dashboard
+    <a href="https://github.com/gautamiKohirkar24/Sales-Analysis-and-Dashboard" target="_blank">
+     - Sales Analysis and Dashboard
     </a>
 </p>
 
 <!-- Project 4:  Emotion Detection using CNN  -->
 <p>
-   - <a href="https://github.com/gautamiKohirkar24/Emotion-Detection-using-CNN" target="_blank">
-      Emotion Detection using CNN
+    <a href="https://github.com/gautamiKohirkar24/Emotion-Detection-using-CNN" target="_blank">
+      -Emotion Detection using CNN
     </a>
 </p>
 </body>
